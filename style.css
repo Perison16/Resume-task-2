@@ -1,0 +1,133 @@
+*{
+				padding:0;
+				margin:0;
+				box-sizing:border-box;
+				}
+				#container{
+				width:80%;
+				margin:auto;
+				}
+				h2{
+				color:#45B1E8;
+				}
+				.col_1{
+				display:flex;
+				align-items:center;
+				gap:10px;
+				}
+				.col_1 i{
+				background-color:#87CEEB;
+				font-size:20px;
+				padding:5px;
+				border-radius:50%;
+				}
+				.line_1 hr{
+				width:87%;
+				border:2px solid #E5E4E2;
+				}
+				.line_2 hr{
+				width:90%;
+				border:2px solid #E5E4E2;
+				}
+				.line_3 hr{
+				width:60%;
+				border:2px solid #E5E4E2;
+				}
+				.line_4 hr{
+				width:80%;
+				border:2px solid #E5E4E2;
+				}
+				
+				
+				
+				.head{
+				display:flex;
+				justify-content:space-between;
+				}
+				.code_img{
+				width:10%;
+				}
+				.code_img img{
+				width:100%;
+				}
+				.head h1{
+				font-size:42px;
+				}
+				
+				.profile{
+				width:10%;
+				
+				}
+				.profile img{
+				width:100%;
+				border-radius:50%;
+				
+				}
+				.col_2{
+				display:flex;
+				gap:10%;
+				margin:10px 0px 0px 40px;
+				}
+				.col_2{
+				
+				}
+				
+				.col_2 li{
+				padding-top:12px;
+				list-style-type:none;
+				
+				}
+				.col_2 i{
+				background-color:#87CEEB;
+				
+				padding:5px;
+				border-radius:50%;
+				margin-right:5px;
+				}
+				.col_3{
+				margin:10px 0px 0px 40px;
+				}
+				.col_3 h3{
+				padding-bottom:5px;
+				}
+				.row_2{
+				padding:10px 0px;
+				}
+				.Institute{
+				display:flex;
+				
+				}
+				.Edu_col{
+				margin:10px 0px 0px 54px;
+				}
+				.Edu_col ul{
+				margin-bottom:10px;
+				}
+				.edu_1{
+				padding-left:15%;
+				}
+				.edu_2{
+				padding-left:12%;
+				}
+				.edu_3{
+				padding-left:27%;
+				}
+				
+				.row_3{
+				padding:10px 0px;
+				}
+				.col_4{
+				margin:10px 0px 0px 54px;
+				}
+				.col_4 li{
+				padding-top:5px;
+				}
+				.row_4{
+				padding:10px 0px;
+				}
+				.col_5 p{
+				margin:10px 0px 0px 40px;
+				}
+				.col_5 ul{
+				margin:10px 0px 0px 85px;
+				}
